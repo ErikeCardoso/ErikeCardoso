@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErikeCardoso
 - 👀 I’m interested in learn everything about automation, machine learning,IA .. but now baby steps!
-- 🌱 I’m currently learning python and machinne learning.
+- 🌱 I’m developer in python and have machinne learning skills.
 - 💞️ I’m looking to collaborate on automation projects and strategic tools.
 - 📫 How to reach me erikecardoso85@gmail.com
 
